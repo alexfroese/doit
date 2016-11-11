@@ -1,0 +1,23 @@
+{
+  "name": "doit",
+  "homepage": "https://github.com/alexfroese/doit",
+  "authors": [
+    "Alex Froese <alex.froese@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "materialize": "^0.97.8",
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.2"
+  }
+}
